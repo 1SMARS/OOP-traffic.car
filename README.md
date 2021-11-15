@@ -1,4 +1,4 @@
-### Descroption
+### Description
 This is a simple car traffic simulation.<br>
 this rectangular car just moves in a circle.
 
